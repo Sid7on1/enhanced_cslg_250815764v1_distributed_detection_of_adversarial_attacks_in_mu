@@ -1,0 +1,2 @@
+# enhanced_cslg_250815764v1_distributed_detection_of_adversarial_attacks_in_mu
+AI-Generated Project: enhanced_cs.LG_2508.15764v1_Distributed_Detection_of_Adversarial_Attacks_in_Mu - Created by WATCHDOG Multi-Agent System
